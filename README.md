@@ -1,5 +1,5 @@
 # TimeTableGenerator
-This project involves designing a Timetable generation system for college students. It enables the administrators to create, manage and update class timetables efficiently. It assists both students and faculty members in managing their timetables, reducing scheduling conflicts and the login page verifies user credentials before granting access to the timetable management page.\n
+This project involves designing a Timetable generation system for college students. It enables the administrators to create, manage and update class timetables efficiently. It assists both students and faculty members in managing their timetables, reducing scheduling conflicts and the login page verifies user credentials before granting access to the timetable management page.break
 This project is designed using **Html**,**CSS** and **JavaScript**. It can run in editors like Sublime and Visual Studio.
 
 __Description of all modules in project__ 
