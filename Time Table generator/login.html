@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Login Form</title>
+    <link rel="stylesheet" href="style-login.css">
+</head>
+<body>
+    <div class="wrap">
+        <div class="login-form">
+            <div class="form-header">
+                <h3>Login Form</h3>
+                <p>Login to access your dashboard</p>
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-input" placeholder="Username" id="username">
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-input" placeholder="Password" id="password">
+            </div>
+            <div class="form-group">
+                <button class="form-button" onclick="Login()">Login</button>
+            </div>
+            <div class="form-footer" onclick="alert('Please Contact System Administrator for Access.')">
+                Don't have an account? <!--  <a href="signup.html">Sign Up</a> -->
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="login.js"></script>
+</body>
+</html>
